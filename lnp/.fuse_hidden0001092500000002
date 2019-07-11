@@ -1,0 +1,4 @@
+ docker run \
+  -d \
+  -p 8888:80 \
+  -it --name m_nginx lnmp /bin/bash
