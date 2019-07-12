@@ -1,3 +1,4 @@
 lnp/nginx/logs/*
 .idea
 php/pkg/*
+.fuse*
